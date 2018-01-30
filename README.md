@@ -16,7 +16,7 @@ You can write your question directly in the issue.
 You can subscribe/unsubscribe to individual issues to receive email notifications.
 
 ## Formatting
-For advanced formatting, title/subtitle structure, itemization, mathematics formulas etc
+For advanced formatting, title/subtitle structure, itemization, images, videos, mathematics formulas and much more
 use the Markdown language https://docs.gitlab.com/ee/user/markdown.html
 
 To get mathematics formulae, e.g. type ```$`a_1^2+b^2=c^2`$``` to get $`a_1^2+b^2=c^2`$,
