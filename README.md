@@ -1,4 +1,6 @@
-# User Help
+# Complex Analysis courses
+
+## User Help
 - To **read old discussions or start new**: Click the `Issues` tab from the left navigation bar (4th icon from the top). 
 You can write text directly in the issue. You can subscribe to updates for each issue. 
 You will be automatically subscribed any new issue you create. You can always unsubscribe from any issue.
