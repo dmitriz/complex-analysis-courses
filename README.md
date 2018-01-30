@@ -3,9 +3,9 @@
 # Complex Analysis courses - Discussion and Files
 
 ## Goals
-- Provide one place for easy and quick communication
-- Quickly get answers for your quesitons
-- Improve quality and accuracy of the course content
+- One place for easy and quick communication and corrections
+- Quickly get answers for your quesitons or answer questions by others
+- Improve quality and accuracy of the course content by contributing corrections and updates
 
 
 
@@ -19,19 +19,8 @@ You can subscribe/unsubscribe to individual issues to receive email notification
 For advanced formatting, title/subtitle structure, itemization, mathematics formulas etc
 use the Markdown language https://docs.gitlab.com/ee/user/markdown.html
 
-To get mathematics formulae, e.g. type ```$`a^2+b^2=c^2`$``` to get $`a^2+b^2=c^2`$ or on a separate line
-```md
-```math
-a^2+b^2=c^2
-```
-```
-
-to get
-
-```math
-a^2+b^2=c^2
-```
-
+To get mathematics formulae, e.g. type ```$`a_1^2+b^2=c^2`$``` to get $`a_1^2+b^2=c^2`$,
+see here for more details: https://docs.gitlab.com/ee/user/markdown.html#math
 
 
 ## User Help
