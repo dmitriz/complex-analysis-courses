@@ -1,4 +1,4 @@
-*This ia new project - Any feedback is greatly appreciated!*
+*This ia new project - Any feedback is greatly appreciated (open an issue or send me an email)*
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Complex-Analysis-Courses/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
