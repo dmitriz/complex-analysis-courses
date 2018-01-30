@@ -1,5 +1,7 @@
 *This ia new project - Any feedback is greatly appreciated!*
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Complex-Analysis-Courses/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # Complex Analysis courses - Discussion and Files
 
 ## Goals
