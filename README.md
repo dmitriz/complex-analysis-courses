@@ -5,7 +5,7 @@
 To ask any question, open an issue (see User Help below how).
 You can write your question directly in the issue.
 
-$$\frac12$$
+$`\frac12`$
 
 ## User Help
 - To **read old discussions or start new**: Click the `Issues` tab from the left navigation bar (4th icon from the top). 
