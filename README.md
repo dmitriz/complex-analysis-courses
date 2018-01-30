@@ -1,9 +1,38 @@
-# Complex Analysis courses -- Discussion and Files
+*This ia new project - Any feedback is greatly appreciated!*
+
+# Complex Analysis courses - Discussion and Files
+
+## Goals
+- Provide one place for easy and quick communication
+- Quickly get answers for your quesitons
+- Improve quality and accuracy of the course content
+
+
 
 ## Asking questions
 
-To ask any question, open an issue (see User Help below how).
+To ask any new question, open a new issue (see User Help below how).
 You can write your question directly in the issue.
+You can subscribe/unsubscribe to individual issues to receive email notifications.
+
+## Formatting
+For advanced formatting, title/subtitle structure, itemization, mathematics formulas etc
+use the Markdown language https://docs.gitlab.com/ee/user/markdown.html
+
+To get mathematics formulae, e.g. type ```$`a^2+b^2=c^2`$``` to get $`a^2+b^2=c^2`$ or on a separate line
+```md
+```math
+a^2+b^2=c^2
+```
+```
+
+to get
+
+```math
+a^2+b^2=c^2
+```
+
+
 
 ## User Help
 - To **read old discussions or start new**: Click the `Issues` tab from the left navigation bar (4th icon from the top). 
